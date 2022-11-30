@@ -114,15 +114,6 @@
   margin-bottom: 16px;
   position: relative;
 }
-.nextM .next::after {
-  content: '';
-  position: absolute;
-  right: 0;
-  bottom: -8px;
-  width: calc(100% - 114px);
-  height: 1px;
-  background: #ebebeb;
-}
 .nextM .next .next_img {
   width: 102px;
   margin-right: 12px;
@@ -131,6 +122,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border-bottom: 1px solid #ebebeb;
+  padding-bottom: 8px;
 }
 .nextM .next .next_tit .nt_stit {
   font-size: 12px;
