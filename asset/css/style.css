@@ -69,6 +69,7 @@
 .recentM {
   padding-top: 10px;
   margin-top: 19px;
+  overflow: hidden;
 }
 .recentM .recent {
   float: left;
