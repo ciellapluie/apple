@@ -100,7 +100,6 @@
 }
 
 /* nextM */
-.nextM {}
 .nextM h2 {
   font-size: 20px;
   font-weight: bold;
@@ -149,7 +148,7 @@
 /* play */
 .play {
   position: fixed;
-  bottom: 62px;
+  bottom: 60px;
   left: 0;
   z-index: 9999;
   width: 100%;
